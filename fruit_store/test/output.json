@@ -1,0 +1,19 @@
+http: //0.0.0.0:8000/customer/order/1
+{
+    "id": 1,
+    "customer": "nguyenvanhuybk99",
+    "status": "Processing",
+    "created_at": "2021-05-18T01:48:55.107000Z",
+    "order_items": [
+        {
+            "name": "orange",
+            "quantity": 1.0,
+            "price": 5.0
+        },
+        {
+            "name": "apple",
+            "quantity": 2.0,
+            "price": 15.0
+        }
+    ]
+}
