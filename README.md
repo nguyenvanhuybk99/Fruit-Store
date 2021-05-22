@@ -32,7 +32,7 @@ Phía quản lý cửa hàng:
 
 > cd fruit_store
 
-## create image from taz file (images: django_mongo:latest)
+## create image from taz file (images: django_mongo:latest) or from Dockerfile
 
 > docker load --input backend_test.tar
 
