@@ -1,6 +1,6 @@
-# Introduction
+# Fruit Store
 
-Django Rest Framework with Mongodb
+Develop basic Fruit-Store by Django Rest Framework with Mongodb
 
 ### Database bao gồm các collections: 
 1. shop_product,
